@@ -150,6 +150,7 @@ section {
     flex: 1;
     max-width: 500px;
     height: 100vh;
+    margin-top: 50px !important;
     margin: auto;
     padding: 30px;
     overflow-y: scroll;
