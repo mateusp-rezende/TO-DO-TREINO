@@ -43,6 +43,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+     padding: 20px;
     background-image: url(https://img.freepik.com/fotos-premium/a-academia-e-uma-academia-com-um-grande-espelho-na-parede-e-as-palavras-nao_873925-196108.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -150,9 +151,8 @@ section {
     flex: 1;
     max-width: 500px;
     height: 100vh;
-    margin-top: 50px !important;
     margin: auto;
-    padding: 30px;
+    padding: 40px;
     overflow-y: scroll;
     scrollbar-width: none; /* Firefox */
     -ms-overflow-style: none; /* IE */
@@ -305,7 +305,7 @@ section header {
         border-radius: 0px;
         width: 100%;
         padding-top: 20px;
-        margin: 20px
+       
     }
 
     .todo h2 {
