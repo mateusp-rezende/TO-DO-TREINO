@@ -150,7 +150,7 @@ input, select {
 section {
     flex: 1;
     max-width: 500px;
-    height: 100vh;
+    height: 90vh;
     margin: auto;
     padding: 40px;
     overflow-y: scroll;
